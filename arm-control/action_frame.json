@@ -1,0 +1,6 @@
+{
+  "source": "Row read from the Raspberry Pi SQLite action database during the 2026-10-13 audit; rebuilt offline on 2026-10-15, not a fresh binary export.",
+  "container_path": "/home/ubuntu/share/tmp/custom_forward_down_v1.d6a",
+  "columns": ["Index", "Time", "Servo1", "Servo2", "Servo3", "Servo4", "Servo5", "Servo6"],
+  "rows": [[1, 4000, 121, 501, 98, 871, 312, 649]]
+}
